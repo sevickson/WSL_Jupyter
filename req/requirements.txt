@@ -1,0 +1,7 @@
+requests
+ipywidgets
+ipykernel
+ipython
+pandas
+numpy
+ipywidgets
