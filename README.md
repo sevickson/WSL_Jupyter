@@ -12,4 +12,5 @@
 This Jupyter Notebook gives you the possibility to very easily setup a WSL lab for developing cross-platform Notebooks.  
 This is quite useful when you have a Notebook that has some CLI commands and you would like to check if those commands work on Windows and different Linux variants.
 
-This repo is divided in the [Notebook](Install-Jupyter-WSL.ipynb) itself and the `REQ` folder where the functions and other requirements are placed.
+This repo is divided in the [Notebook](Install-Jupyter-WSL.ipynb) itself and the `REQ` folder where the functions and other requirements are placed.  
+I also created a `RUN` folder with a minimal set imports and functions needed to be able to use it in your own Jupyter Notebook, I also have a sample [Notebook](RUN\\Run_VSCode_WSL.ipynb) in that folder.
