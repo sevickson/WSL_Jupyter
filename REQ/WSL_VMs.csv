@@ -1,3 +1,4 @@
 OS,URL,Name
 Ubuntu 20.04,https://aka.ms/wslubuntu2004,Ubuntu
 Debian,https://aka.ms/wsl-debian-gnulinux,Debian
+Kali,https://aka.ms/wsl-kali-linux-new,Kali

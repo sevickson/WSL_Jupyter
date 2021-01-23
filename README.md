@@ -1,5 +1,5 @@
 # Windows Subsystem for Linux (WSL) lab🧪 for near-simultaneous🔁 Jupyter Notebook📓 development
-<img src="https://www.game-experience.nl/wp-content/uploads/2018/04/Windows-10-logo-300x300.png" alt="Windows" width="40" height="40"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" width="40" height="40"> <img src="https://jupyter.org/assets/main-logo.svg" alt="Jupyter" width="40" height="40">
+<img src="https://www.game-experience.nl/wp-content/uploads/2018/04/Windows-10-logo-300x300.png" alt="Windows" width="40" height="40"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" alt="Linux" width="40" height="40"> <img src="https://jupyter.org/assets/main-logo.svg" alt="Jupyter" width="40" height="40">
 
 ------
 
